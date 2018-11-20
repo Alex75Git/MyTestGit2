@@ -10,6 +10,7 @@ class MainActivitytTestGit2 : AppCompatActivity() {
         setContentView(R.layout.activity_main_activityt_test_git2)
 
         // commit 1
+        // commit 2
 
     }
 }

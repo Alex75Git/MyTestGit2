@@ -13,5 +13,7 @@ class MainActivitytTestGit2 : AppCompatActivity() {
         // commit 2
         // commit 3
 
+        // commit 8 in master branch
+
     }
 }

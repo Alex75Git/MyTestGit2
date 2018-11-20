@@ -18,5 +18,7 @@ class MainActivitytTestGit2 : AppCompatActivity() {
 
         // brunch 2 fom commit 2
         // commit 6 i n brunch 2
+
+        // commit 7
     }
 }
